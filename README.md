@@ -14,9 +14,6 @@ This is a solution to the [Calculator app challenge on Frontend Mentor](https://
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -35,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mafif21/calculator#links)
+- Live Site URL: [Add live site URL here](https://628e3c20fac0e31dd726835b--singular-meerkat-143e73.netlify.app/)
 
 ## My process
 
@@ -52,13 +49,11 @@ Users should be able to:
 
 i learn so much about class in javascript , and im so struggle about it
 
-To see how you can add code snippets, see below:
-
 ### Continued development
 
 after this project i wll to make website with api like movie website or something
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mafif21)
+- Frontend Mentor - [@mafif21](https://www.frontendmentor.io/profile/mafif21)
 - Twitter - [@yleletambak](https://twitter.com/leletambak)
