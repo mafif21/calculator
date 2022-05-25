@@ -55,4 +55,4 @@ after this project i wll to make website with api like movie website or somethin
 ## Author
 
 - Frontend Mentor - [@mafif21](https://www.frontendmentor.io/profile/mafif21)
-- Twitter - [@yleletambak](https://twitter.com/leletambak)
+- Twitter - [@leletambak](https://twitter.com/leletambak)
