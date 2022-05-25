@@ -60,5 +60,5 @@ after this project i wll to make website with api like movie website or somethin
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mafif21)
+- Twitter - [@yleletambak](https://twitter.com/leletambak)
